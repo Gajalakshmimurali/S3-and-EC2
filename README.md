@@ -13,7 +13,7 @@ dashboard.
 Step 3: Create Bucket
 Click the Create bucket button.
 Step 4: Configure Bucket Settings
-
+  
 • Bucket name: Choose a globally unique name.
 • AWS Region: Select the region where you want to store your data.
 
